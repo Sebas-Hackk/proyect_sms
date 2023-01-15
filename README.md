@@ -14,10 +14,10 @@
 [![Screenshot-20221011-082001.jpg](https://i.postimg.cc/4yWN9zB3/Screenshot-20221011-082001.jpg)](https://postimg.cc/MfjSkjkk)
 > $ bash install.sh
 [![Screenshot-20221011-082234.jpg](https://i.postimg.cc/2y0hSLWQ/Screenshot-20221011-082234.jpg)](https://postimg.cc/YLmhX9b0)
-# Install apk ¡!
+<h3 align="center"> Instalar app </h3>
 Nota:
 
-La apk se encontrara en la ruta 
+- La apk se encontrara en la ruta 
 > $ /storage/emulated/0/
 [![Screenshot-20221011-082611-Package-installer.jpg](https://i.postimg.cc/7Pjm7pJS/Screenshot-20221011-082611-Package-installer.jpg)](https://postimg.cc/ThqVvN9P)
 > $ python3 spam.py
