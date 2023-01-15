@@ -1,4 +1,4 @@
-# INSTALACION
+<h3 align="center"> INSTALACION </h3>
 
 > $ apt update && apt upgrade -y
 [![Screenshot-20221011-080710.jpg](https://i.postimg.cc/tRPyjz9N/Screenshot-20221011-080710.jpg)](https://postimg.cc/NLgZ8m9K)
